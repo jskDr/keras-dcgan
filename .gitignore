@@ -1,1 +1,4 @@
 *.png
+discriminator
+generator
+
